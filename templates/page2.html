@@ -1,0 +1,17 @@
+
+{% extends base %}
+<!DOCTYPE html>
+<html lang="en">
+    {% block preamble %}
+<head>
+
+    <title>PAGE 2</title>
+</head>
+{% endblock %} {% block contents %}
+<body>
+<h1>WELCOME TO PAGE 2</h1>
+<div>{{embed(roots.tabs)}}</div>
+<div>{{embed(roots.link)}}</div>
+</body>
+{% endblock %}
+</html>
