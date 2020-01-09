@@ -1,7 +1,9 @@
 # Primavera++
-This application tries to make the best of Programming, Statistics, Data Science, and Machine Learning in favor to Construction Project Planning
-In this cycle the application will focus on the Read-Only utilization of Primavera schema
-This application contains 5 separated Single Page Application (SPA)
+This application tries to make the best of Programming, Statistics, Data Science, and Machine Learning in favor to Construction Project Planning.
+
+In this cycle the application will focus on the Read-Only utilization of Primavera schema.
+
+This application contains 5 separated Single Page Application (SPA):
 
        /ProjectData: Responsible of handling XER files into workable Excel-books
        
